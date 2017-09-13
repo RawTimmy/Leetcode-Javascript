@@ -1,6 +1,6 @@
 # LeetCode Javascript
 
-### Last Updated Time: 2017.09.11
+### Last Updated Time: 2017.09.13
 
 ## Introduction
 
@@ -23,13 +23,19 @@ This repository contains solutions of LeetCode problems with Javascript.
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Easy|[JavaScript](/Algorithms/171%20-%20Excel%20Sheet%20Column%20Number/ExcelSheetColumnNumber.js)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|Medium|[JavaScript](/Algorithms/187%20-%20Repeated%20DNA%20Sequences/RepeatedDNASequences.js)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|[JavaScript](/Algorithms/190%20-%20Reverse%20Bits/ReverseBits.js)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|[JavaScript](/Algorithms/191%20-%20Number%20of%201%20Bits/NumberOf1Bits.js)|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Medium|[JavaScript](/Algorithms/201%20-%20Bitwise%20AND%20of%20Number%20Range/BitwiseANDOfNumbersRange.js)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|[JavaScript](/Algorithms/226%20-%20Invert%20Binary%20Tree/InvertBinaryTree.js)|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Easy|[JavaScript](Algorithms/231%20-%20Power%20of%20Two/PowerOfTwo.js)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[JavaScript](/Algorithms/258%20-%20Add%20Digits/AddDigits.js)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[JavaScript](/Algorithms/260%20-%20Single%20Number%20III/SingleNumberIII.js)|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|[JavaScript](/Algorithms/268%20-%20Missing%20Number/MissingNumber.js)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[JavaScript](/Algorithms/283%20-%20Move%20Zeroes/MoveZeroes.js)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[JavaScript](/Algorithms/292%20-%20Nim%20Game/NimGame.js)|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium|[JavaScript](/Algorithms/318%20-%20Maximum%20Product%20of%20Word%20Lengths/MaximumProductofWordLengths.js)|
 |334|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[JavaScript](/Algorithms/334%20-%20Reverse%20String/ReverseString.js)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[JavaScript](/Algorithms/338%20-%20Counting%20Bits/CountBits.js)|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|[JavaScript](/Algorithms/342%20-%20Power%20of%20Four/PowerOfFour.js)|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|[JavaScript](/Algorithms/349%20-%20Intersection%20of%20Two%20Arrays/IntersectionOfTwoArrays.js)|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Easy|[JavaScript](/Algorithms/371%20-%20Sum%20of%20Two%20Integers/SumOfTwoIntegers.js)|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|Easy|[JavaScript](/Algorithms/383%20-%20Ransom%20Note/RansomNote.js)|
