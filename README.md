@@ -1,6 +1,6 @@
 # LeetCode Javascript
 
-### Last Updated Time: 2017.10.19
+### Last Updated Time: 2017.10.27
 
 ## Introduction
 
@@ -13,10 +13,15 @@ This repository contains solutions of LeetCode problems with Javascript.
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[JavaScript](/Algorithms/001%20-%20Two%20Sum/TwoSum.js)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[JavaScript](/Algorithms/002%20-%20Add%20Two%20Numbers/AddTwoNumbers.js)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[JavaScript](/Algorithms/003%20-%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeartingCharacters.js)|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|[JavaScript](/Algorithms/005%20-%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring.js)|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|[JavaScript](/Algorithms/006%20-%20ZigZag%20Conversion/ZigZagConversion.js)|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Easy|[JavaScript](/Algorithms/007%20-%20Reverse%20Integer/ReverseInteger.js)|
 |015|[3Sum](https://leetcode.com/problems/3sum/)|Medium|[JavaScript](/Algorithms/015%20-%203Sum/3Sum.js)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|[JavaScript](/Algorithms/016%20-%203Sum%20Closest/3SumClosest.js)|
 |026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|[JavaScript](/Algorithms/026%20-%20Remove%20Duplicates%20From%20Sorted%20Array/RemoveDuplicatesFromSortedArray.js)|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|[JavaScript](/Algorithms/027%20-%20Remove%20Element/RemoveElement.js)|
+|031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[JavaScript](/Algorithms/031%20-%20Next%20Permutation/NextPermutation.js)|
+|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|Medium|[JavaScript](/Algorithms/060%20-%20Permutation%20Sequence/PermutationSequence.js)|
 |078|[Subsets](https://leetcode.com/problems/subsets/)|Medium|[JavaScript](/Algorithms/078%20-%20Subsets/Subsets.js)|
 |104|[Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|[JavaScript](/Algorithms/104%20-%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree.js)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Easy|[JavaScript](/Algorithms/122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/BestTimeToBuyAndSellStockII.js)|
@@ -76,6 +81,7 @@ This repository contains solutions of LeetCode problems with Javascript.
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|Easy|[JavaScript](/Algorithms/653%20-%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV-BST.js)|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|Easy|[JavaScript](/Algorithms/657%20-%20Judge%20Route%20Circle/JudgeRouteCircle.js)|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|Easy|[JavaScript](/Algorithms/669%20-%20Trim%20a%20Binary%20Search%20Tree/TrimABinarySearchTree.js)|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|Medium|[JavaScript](/Algorithms/670%20-%20Maximum%20Swap/MaximumSwap.js)|
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|Medium|[JavaScript](/Algorithms/673%20-%20Number%20of%20Longest%20Increasing%20Subsequence/NumberOfLongestIncreasingSubsequence.js)|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|Easy|[JavaScript](/Algorithms/674%20-%20Longest%20Continuous%20Increasing%20Subsequence/LongestContinuousIncreasingSubsequence.js)|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|Easy|[JavaScript](/Algorithms/693%20-%20Binary%20Number%20with%20Alternating%20Bits/BinaryNumberWithAlternatingBits.js)|
