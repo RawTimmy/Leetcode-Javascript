@@ -1,6 +1,6 @@
 # LeetCode Javascript
 
-### Last Updated Time: 2017.12.27
+### Last Updated Time: 2018.01.04
 
 ## Introduction
 
@@ -16,6 +16,7 @@ This repository contains solutions of LeetCode problems with Javascript.
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|[JavaScript](/Algorithms/005%20-%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring.js)|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|[JavaScript](/Algorithms/006%20-%20ZigZag%20Conversion/ZigZagConversion.js)|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Easy|[JavaScript](/Algorithms/007%20-%20Reverse%20Integer/ReverseInteger.js)|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy||
 |015|[3Sum](https://leetcode.com/problems/3sum/)|Medium|[JavaScript](/Algorithms/015%20-%203Sum/3Sum.js)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|[JavaScript](/Algorithms/016%20-%203Sum%20Closest/3SumClosest.js)|
 |026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|[JavaScript](/Algorithms/026%20-%20Remove%20Duplicates%20From%20Sorted%20Array/RemoveDuplicatesFromSortedArray.js)|
@@ -30,23 +31,29 @@ This repository contains solutions of LeetCode problems with Javascript.
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Easy|[JavaScript](/Algorithms/122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/BestTimeToBuyAndSellStockII.js)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|[JavaScript](/Algorithms/136%20-%20Single%20Number/SingleNumber.js)|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|Medium|[JavaScript](/Algorithms/137%20-%20Single%20Number%20II/SingleNumberII.js)|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|Easy||
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|[JavaScript](/Algorithms/169%20-%20Majority%20Element/MajorityElement.js)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Easy|[JavaScript](/Algorithms/171%20-%20Excel%20Sheet%20Column%20Number/ExcelSheetColumnNumber.js)|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|Easy||
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|Medium|[JavaScript](/Algorithms/187%20-%20Repeated%20DNA%20Sequences/RepeatedDNASequences.js)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|[JavaScript](/Algorithms/190%20-%20Reverse%20Bits/ReverseBits.js)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|[JavaScript](/Algorithms/191%20-%20Number%20of%201%20Bits/NumberOf1Bits.js)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Medium|[JavaScript](/Algorithms/201%20-%20Bitwise%20AND%20of%20Number%20Range/BitwiseANDOfNumbersRange.js)|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|Easy||
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|Easy||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|[JavaScript](/Algorithms/226%20-%20Invert%20Binary%20Tree/InvertBinaryTree.js)|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Easy|[JavaScript](Algorithms/231%20-%20Power%20of%20Two/PowerOfTwo.js)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|[JavaScript](/Algorithms/258%20-%20Add%20Digits/AddDigits.js)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|[JavaScript](/Algorithms/260%20-%20Single%20Number%20III/SingleNumberIII.js)|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy||
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|Medium||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|[JavaScript](/Algorithms/268%20-%20Missing%20Number/MissingNumber.js)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|[JavaScript](/Algorithms/283%20-%20Move%20Zeroes/MoveZeroes.js)|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium||
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|[JJavaScript](/Algorithms/287%20-%20Find%20The%20Duplicate%20Number/FindTheDuplicateNumber.js)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|[JavaScript](/Algorithms/292%20-%20Nim%20Game/NimGame.js)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|[JavaScript](/Algorithms/300%20-%20Longest%20Increasing%20Subsequence/LongestIncreasingSubsequence.js)|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium|[JavaScript](/Algorithms/318%20-%20Maximum%20Product%20of%20Word%20Lengths/MaximumProductofWordLengths.js)|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy||
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|[JavaScript](/Algorithms/326%20-%20Power%20of%20Three/PowerOfThree.js)|
 |334|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|[JavaScript](/Algorithms/334%20-%20Reverse%20String/ReverseString.js)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|[JavaScript](/Algorithms/338%20-%20Counting%20Bits/CountBits.js)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|[JavaScript](/Algorithms/342%20-%20Power%20of%20Four/PowerOfFour.js)|
@@ -57,13 +64,13 @@ This repository contains solutions of LeetCode problems with Javascript.
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy|[JavaScript](/Algorithms/389%20-%20Find%20the%20Difference/FindTheDifference.js)|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|Medium|[JavaScript](/Algorithms/393%20-%20UTF-8%20Validation/UTF8Validation.js)|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|Medium|[JavaScript](/Algorithms/397%20-%20Integer%20Replacement/IntegerReplacement.js)|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy||
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy|[JavaScript](/Algorithms/400%20-%20Nth%20Digit/NthDigit.js)|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|Easy|[JavaScript](/Algorithms/401%20-%20Binary%20Watch/BinaryWatch.js)|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|Easy|[JavaScript](/Algorithms/405%20-%20Convert%20a%20Number%20to%20Hexadecimal/ConvertANumberToHexadecimal.js)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy|[JavaScript](/Algorithms/412%20-%20Fizz%20Buzz/FizzBuzz.js)|
-|415|[Add String](https://leetcode.com/problems/add-strings/)|Easy||
+|415|[Add String](https://leetcode.com/problems/add-strings/)|Easy|[JavaScript](/Algorithms/415%20-%20Add%20String/AddString.js)|
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|Medium|[JavaScript](/Algorithms/421%20-%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/MaximumXorOfTwoNumbersInAnArray.js)|
-|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy||
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy|[JavaScript](/Algorithms/441%20-%20Arranging%20Coins/ArrangingCoins.js)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|[JavaScript](/Algorithms/448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray.js)|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Easy|[JavaScript](/Algorithms/453%20-%20Minimum%20Moves%20to%20Equal%20Array%20Element/MinimumMovesToEqualArrayElement.js)|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Easy|[JavaScript](/Algorithms/455%20-%20Assign%20Cookies/AssignCookies.js)|
@@ -87,10 +94,10 @@ This repository contains solutions of LeetCode problems with Javascript.
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|Easy|[JavaScript](/Algorithms/598%20-%20Range%20Addition%20II%20/RangeAdditionII.js)|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|Easy|[JavaScript](/Algorithms/606%20-%20Construct%20String%20from%20Binary%20Tree/ConstructStringFromBinaryTree.js)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|[JavaScript](/Algorithms/617%20-%20Merge%20Two%20Binary%20Trees/MergeTwoBinaryTrees.js)|
-|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|Easy||
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|Easy|[JavaScript](/Algorithms/628%20-%20Maximum%20Product%20of%20Three%20Numbers/MaximumProductOfThreeNumbers.js)|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|Easy|[JavaScript](/Algorithms/633%20-%20Sum%20of%20Square%20Numbers/SumOfSquareNumbers.js)|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|Easy|[JavaScript](/Algorithms/637%20-%20Average%20of%20Levels%20in%20Binary%20Tree/AverageOfLevelsInBinaryTree.js)|
-|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|Easy||
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|Easy|[JavaScript](/Algorithms/645%20-%20Set%20Mismatch/SetMismatch.js)|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|Easy|[JavaScript](/Algorithms/653%20-%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV-BST.js)|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|Easy|[JavaScript](/Algorithms/657%20-%20Judge%20Route%20Circle/JudgeRouteCircle.js)|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|Easy|[JavaScript](/Algorithms/669%20-%20Trim%20a%20Binary%20Search%20Tree/TrimABinarySearchTree.js)|
