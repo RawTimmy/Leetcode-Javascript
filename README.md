@@ -10,7 +10,7 @@ This repository contains solutions of LeetCode problems with Javascript.
 
 |Problem No. |Title| Difficulty|Source Code|
 |:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[JavaScript](/Algorithms/001%20-%20Two%20Sum/TwoSum.js)|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[JavaScript](/Algorithms/001%20-%20Two%20Sum/TwoSum.js)/[Python](/Algorithms/001%20-%20Two%20Sum/TwoSum.py)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[JavaScript](/Algorithms/002%20-%20Add%20Two%20Numbers/AddTwoNumbers.js)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|[JavaScript](/Algorithms/003%20-%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeartingCharacters.js)|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|[JavaScript](/Algorithms/005%20-%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring.js)|
@@ -19,9 +19,11 @@ This repository contains solutions of LeetCode problems with Javascript.
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy||
 |015|[3Sum](https://leetcode.com/problems/3sum/)|Medium|[JavaScript](/Algorithms/015%20-%203Sum/3Sum.js)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|[JavaScript](/Algorithms/016%20-%203Sum%20Closest/3SumClosest.js)|
-|026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|[JavaScript](/Algorithms/026%20-%20Remove%20Duplicates%20From%20Sorted%20Array/RemoveDuplicatesFromSortedArray.js)|
-|027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|[JavaScript](/Algorithms/027%20-%20Remove%20Element/RemoveElement.js)|
+|026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|[JavaScript](/Algorithms/026%20-%20Remove%20Duplicates%20From%20Sorted%20Array/RemoveDuplicatesFromSortedArray.js)/[Python](/Algorithms/026%20-%20Remove%20Duplicates%20From%20Sorted%20Array/RemoveDuplicatesFromSortedArray.py)|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|[JavaScript](/Algorithms/027%20-%20Remove%20Element/RemoveElement.js)/[Python](/Algorithms/027%20-%20Remove%20Element/RemoveElement.py)|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|[JavaScript](/Algorithms/031%20-%20Next%20Permutation/NextPermutation.js)|
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|[Python](/Algorithms/035%20-%20Search%20Insert%20Position/SearchInsertPosition.py)|
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|[Python](/Algorithms/053%20-%20Maximum%20Subarray/MaximumSubarray.py)|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|Medium|[JavaScript](/Algorithms/060%20-%20Permutation%20Sequence/PermutationSequence.js)|
 |066|[Plus One](https://leetcode.com/problems/plus-one/)|Easy|[JavaScript](/Algorithms/066%20-%20Plus%20One/PlusOne.js)|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/)|Easy|[JavaScript](/Algorithms/067%20-%20Add%20Binary/AddBinary.js)|
@@ -106,3 +108,5 @@ This repository contains solutions of LeetCode problems with Javascript.
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|Easy|[JavaScript](/Algorithms/674%20-%20Longest%20Continuous%20Increasing%20Subsequence/LongestContinuousIncreasingSubsequence.js)|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|Easy|[JavaScript](/Algorithms/693%20-%20Binary%20Number%20with%20Alternating%20Bits/BinaryNumberWithAlternatingBits.js)|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|Easy|[JavaScript](/Algorithms/728%20-%20Self%20Dividing%20Number/SelfDividingNumber.js)|
+|832|[Filpping an Image](https://leetcode.com/problems/flipping-an-image/)|Easy|[Python](/Algorithms/832%20-%20Flipping%20an%20Image/FlippinganImage.py)|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|Easy|[Python](/Algorithms/905%20-%20Sort%20Array%20By%20Parity/SortArrayByParity.py)|
